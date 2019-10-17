@@ -1,0 +1,23 @@
+.background-color-white{
+    background-color: whitesmoke;
+}
+
+
+
+.table thead th{
+    text-align: center
+}
+tr{
+    text-align: center
+}
+
+.display-none{
+    display: none
+}
+
+.modal-title{
+    width:860px;
+}
+.float-right{
+    float: right;
+}
